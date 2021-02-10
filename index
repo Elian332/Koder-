@@ -1,14 +1,16 @@
 <html>
+<head>
 <title>P&AacuteGINA GAIMING</title>
+</head>
+<body>
 <font size="10" face="Algerian"> 
 <head>KODER GAIMING</head>
 <br>
-<hr color="black"> 
+<hr color="black">
 <marquee Behavior direction= "left" width=40%>BIENVENIDOS</marquee> 
-<font color="blue" face "arial" size="7"><p>P&AacuteGINA OFICIAL</p>
-<bbody>
+<font color="blue" face "arial" size="7"><DIV ALIGN="center"><em><p>P&AacuteGINA OFICIAL</p></em></DIV>
 <font color="white"><head> INFORMACI&OacuteN</head>
-	<font color="black"><p>Aqu&iacuten podr&aacuten encontrar toda nuestra nueva informaci&oacuten de nuevos servicios, entre otras. Se estaran subiendo imagenes de todo lo que llegue a las oficinas tambien, se le dara actualizaciones diarias a la p&aacutegina!! Una de nuestras misiones como empresa, es poder solucionar cualquier m&iacutenimo detalle al gusto del cliente.</p>
+	<font color="black"><p>Aqu&iacute podr&aacuten encontrar toda nuestra nueva informaci&oacuten de nuevos servicios, entre otras. Se estaran subiendo imagenes de todo lo que llegue a las oficinas tambien, se le dara actualizaciones diarias a la p&aacutegina!! Una de nuestras misiones como empresa, es poder solucionar cualquier m&iacutenimo detalle al gusto del cliente.</p>
 	<font color="white""><head>HISTORIA</head>
 <font color="black"><p>Nuestra historia retornan a los a&ntildeos 90 cuando era un simple ni&ntildeo y siempre iba con mi padre a su trabajo. Trabajaba de informatico, aparte de mis gustos a las computadoras, terminaron atrayendome bastante las p&aacuteginas, visiones, todo lo que hacia mi padre. Hasta que en un futuro... quise seguir su camino!!! </p>
 <font color="white"><head>VISION</head>
@@ -21,5 +23,4 @@
 <Body BgColor= "Red">
 </body>
 </html>
-
 
